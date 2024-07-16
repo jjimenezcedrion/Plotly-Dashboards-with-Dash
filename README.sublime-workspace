@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Files/My Workspaces/GitHub/LabView/potencia_fija.py",
+		"/C/Files/My Workspaces/GitHub/LabView/localizador_daq.py",
+		"/C/Files/My Workspaces/GitHub/LabView/requirements.txt",
+		"/C/Files/My Workspaces/GitHub/LabView/requirements_old.txt",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/W. BIBLIOTECA/DAQami_data/DAQami/README.md",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/W. BIBLIOTECA/DAQami_data/DAQami/.gitignore",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/W. BIBLIOTECA/DAQami_data/DAQami/test2.py",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/W. BIBLIOTECA/DAQami_data/DAQami/test1.py",
+		"/C/Files/My Libraries/Desktop/control_potencia_Albert_sinexcel.vi",
+		"/C/Files/Clouds/MATLAB Drive/HVPS_AnInterfaceMC.mlx",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/R. iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/DAQami_sawtoothTest_dataPP - Copy.py",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/Cu1/SawtoothParameters.txt",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/Cu1/New Text Document.txt",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/R. iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/SEM-EnsayosPresion/EnsayosPresion_M1_linescan.txt",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/A. KIRION 1/6. Informes (internos)/ITCL 2024/analog - Vo Io/Readme.txt",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/W. BIBLIOTECA/DAQami_data/Pruebas PCB/2024-05-16 16-37 1000Hz/Analog - 16-05-2024 16-37-57.942.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/W. BIBLIOTECA/DAQami_data/Pruebas PCB/2024-05-16 16-39 10000Hz/Analog - 16-05-2024 16-39-38.9403.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/A. KIRION 1/6. Informes (internos)/ITCL 2024/analog - Vo Io/2024-05-16 16-39 10000Hz/Analog - 16-05-2024 16-39-38.9403.csv",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-05-15 11-45 - p1_elM_Cu1/Analog - 15-05-2024 11-45-10.97.txt",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/GitHub_Cedrion/Formacion/TrainingRepositoryGithub/Jorgeous.txt",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/GitHub_Cedrion/Formacion/Jorgeous/prrrrrueba.txt",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/GitHub_Cedrion/Formacion/Jorgeous/README.md",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/A. CAPENSIS - VALEO/5. ENSAYOS/Prueba degradacion por caracterizacion/Data/2024-04-24 13-47 cap1/Analog - 24-04-2024 13-47-29.93.csv",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-04-24 13-20/Analog - 24-04-2024 13-20-37.05.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/A. CAPENSIS - VALEO/5. ENSAYOS/Prueba degradacion por caracterizacion/Data/2024-04-24 12-53 capII/Analog - 24-04-2024 12-53-06.48.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/A. CAPENSIS - VALEO/5. ENSAYOS/Prueba degradacion por caracterizacion/Data/2024-04-24 13-20 capI/Analog - 24-04-2024 13-20-37.05.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-46 3p_m P0.35/Analog - 18-04-2024 17-46-06.70.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 18-23 1p_c2 P0.9to0.0/Analog - 18-04-2024 18-23-29.97.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 18-11 3p_c P0.7to0.0/Analog - 18-04-2024 18-11-42.26.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 18-08 3p_c P0.0to0.7/Analog - 18-04-2024 18-08-57.35.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-54 1p_m2 P0.35/Analog - 18-04-2024 17-54-56.97.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-52 1p_m1 P0.35/Analog - 18-04-2024 17-52-49.24.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-50 1p_c2 P0.35/Analog - 18-04-2024 17-50-34.66.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-48 1p_c1 P0.35/Analog - 18-04-2024 17-48-23.60.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-43 3p_c P0.35/Analog - 18-04-2024 17-43-48.21.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-40 1p_m2 P0.3/Analog - 18-04-2024 17-40-51.22.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-38 1p_m1 P0.3/Analog - 18-04-2024 17-38-19.10.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-28 1p_c2 P0.3/Analog - 18-04-2024 17-28-38.92.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-26 1p_c1 P0.3/Analog - 18-04-2024 17-26-36.02.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-24 3p_m P0.3/Analog - 18-04-2024 17-24-31.74.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-22 3p_c P0.3/Analog - 18-04-2024 17-22-37.94.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-19 1p_m2 P0.15/Analog - 18-04-2024 17-19-14.21.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-17 1p_c2 P0.15/Analog - 18-04-2024 17-17-01.23.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-14 1p_m1 P0.15/Analog - 18-04-2024 17-14-42.50.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-09 1p_c1 P0.15/Analog - 18-04-2024 17-09-15.77.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 17-06 3p_m P0.15/Analog - 18-04-2024 17-06-19.72.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-57 3p_c P0.15/Analog - 18-04-2024 16-57-11.96.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-53 1p_m2 P0.1/Analog - 18-04-2024 16-53-40.13.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-51 1p_m1 P0.1/Analog - 18-04-2024 16-51-38.36.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-49 1p_c2 P0.1/Analog - 18-04-2024 16-49-06.39.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-47 1p_c1 P0.1/Analog - 18-04-2024 16-47-07.36.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-45 3p_m P0.1/Analog - 18-04-2024 16-45-09.13.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-41 3p_c P0.1/Analog - 18-04-2024 16-41-15.39.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-38 1p_m2 P0.05/Analog - 18-04-2024 16-38-08.14.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-36 1p_m1 P0.05/Analog - 18-04-2024 16-36-06.44.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-34 1p_c2 P0.05/Analog - 18-04-2024 16-34-06.74.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-31 1p_c1 P0.05/Analog - 18-04-2024 16-31-58.00.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-29 3p_m P0.05/Analog - 18-04-2024 16-29-59.72.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-27 3p_c P0.05/Analog - 18-04-2024 16-27-52.62.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-24 1p_m2 P0.0/Analog - 18-04-2024 16-24-30.92.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-22 1p_m1 P0.0/Analog - 18-04-2024 16-22-38.48.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-20 1p_c2 P0.0/Analog - 18-04-2024 16-20-31.33.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-10 3p_m P0.0/Analog - 18-04-2024 16-10-00.38.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-17 1p_c1 P0.0/Analog - 18-04-2024 16-17-55.41.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 16-07 3p_c P0.0/Analog - 18-04-2024 16-07-22.42.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 13-29 3p_m decomp/Analog - 18-04-2024 13-29-39.18.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 13-06 3p_c decomp/Analog - 18-04-2024 13-06-35.30.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 13-03 1p_m2 P0.79/Analog - 18-04-2024 13-03-04.34.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 13-00 1p_m1 P0.79/Analog - 18-04-2024 13-00-55.95.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-58 1p_c2 P0.79/Analog - 18-04-2024 12-58-38.49.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-56 1p_c1 P0.79/Analog - 18-04-2024 12-56-38.24.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-54 3p_m P0.79/Analog - 18-04-2024 12-54-25.27.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-51 3p_c P0.79/Analog - 18-04-2024 12-51-39.19.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-45 1p_m2 P0.68/Analog - 18-04-2024 12-45-46.31.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-43 1p_m1 P0.68/Analog - 18-04-2024 12-43-38.90.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-41 1p_c2 P0.68/Analog - 18-04-2024 12-41-36.93.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-39 1p_c1 P0.68/Analog - 18-04-2024 12-39-28.97.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-37 3p_m P0.68/Analog - 18-04-2024 12-37-13.23.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-35 3p_c P0.68/Analog - 18-04-2024 12-35-03.67.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-23 1p_m2 P0.49/Analog - 18-04-2024 12-23-27.97.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-20 1p_m1 P0.49/Analog - 18-04-2024 12-20-59.24.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-17 1p_c2 P0.49/Analog - 18-04-2024 12-17-16.04.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-14 1p_c1 P0.49/Analog - 18-04-2024 12-14-40.03.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-09 3p_c P0.49/Analog - 18-04-2024 12-09-49.64.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-12 3p_m P0.49/Analog - 18-04-2024 12-12-23.25.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 12-01 1p_m2 P0.31/Analog - 18-04-2024 12-01-12.30.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-59 1p_m1 P0.31/Analog - 18-04-2024 11-59-02.54.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-56 1p_c2 P0.31/Analog - 18-04-2024 11-56-48.28.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-53 1p_c1 P0.31/Analog - 18-04-2024 11-53-43.28.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-51 3p_m P0.32/Analog - 18-04-2024 11-51-37.87.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-49 3p_c P0.32/Analog - 18-04-2024 11-49-26.16.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-17 1p_c1/Analog - 18-04-2024 10-17-00.22.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-13 1p_c2/Analog - 18-04-2024 10-13-42.86.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-04 1p_m2/Analog - 18-04-2024 10-04-39.09.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-00 1p_m1/Analog - 18-04-2024 10-00-41.67.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/iSISTEHMA - PTA/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 9-57 3p_c/Analog - 18-04-2024 9-57-17.59.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-49 3p_c P0.32/Analog - 18-04-2024 11-49-26.16.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-51 3p_m P0.32/Analog - 18-04-2024 11-51-37.87.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 11-53 1p_c1 P0.31/Analog - 18-04-2024 11-53-43.28.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 18-23 1p_c2 P0.9to0.0/Analog - 18-04-2024 18-23-29.97.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-17 1p_c1/Analog - 18-04-2024 10-17-00.22.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 9-57 3p_c/Analog - 18-04-2024 9-57-17.59.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-00 1p_m1/Analog - 18-04-2024 10-00-41.67.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-04 1p_m2/Analog - 18-04-2024 10-04-39.09.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 10-13 1p_c2/Analog - 18-04-2024 10-13-42.86.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/Ensayos de presión 2/Data/2024-04-18 9-53 3p_m/Analog - 18-04-2024 9-53-18.02.csv",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-04-15 12-23/Analog - 15-04-2024 12-23-37.08.csv",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-04-11 17-39/Analog - 11-04-2024 17-39-20.371.csv",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-04-03 11-24/Analog - 03-04-2024 11-24-13.710.csv",
+		"/C/Files/My Libraries/Desktop/asdf.txt",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-04-01 15-11/Analog - 01-04-2024 15-11-06.3.csv",
+		"/C/Files/Clouds/CEDRION Drive/My Drive/My Workspaces/DAQami/2024-03-14 12-00/Analog - 14-03-2024 12-00-55,25.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/Instrumentacion de fuentes HV con arduino/HVPS_prueba/HVPS_prueba.ino",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/Instrumentacion de fuentes HV con arduino/HVPS_analogControl/HVPS_analogControl.ino",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/Instrumentacion de fuentes HV con arduino/HVPS_analogWrite/HVPS_analogWrite.ino",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/Instrumentacion de fuentes HV con arduino/HVPS_analogRead/HVPS_analogRead.ino",
+		"/C/Files/My Libraries/Desktop/HVPS_analogRead.ino",
+		"/C/Files/Clouds/MATLAB Drive/mfile.txt",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/Instrumentacion de fuentes HV con arduino/HVPS_analogControl_calibration/HVPS_analogControl_calibration.ino",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/SensorPresionV2/SensorPresionV2.ino",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/Arduino/Medir_Presiones_125-50Pa/Medir_Presiones_125-50Pa.ino",
+		"/C/Files/Clouds/MATLAB Drive/AmbTestResults.m",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/[iSISTEHMA - PTA]/5.  ENSAYOS/A4.2 Refrigeración por aire/Ensayos - Pruebas medioambientales/20240119_iSistehma-Datos_EnsAmbientales.txt",
+		"/C/Program Files/COMSOL/COMSOL61/Multiphysics/bin/win64/cefsharp/LICENSE.txt",
+		"/C/Files/My Libraries/Desktop/asdf.csv",
+		"/C/Files/My Libraries/Desktop/1234.csv",
+		"/C/Files/My Libraries/Desktop/New Text Document.csv",
+		"/C/Files/Clouds/CEDRION Drive/Shared drives/TECNOLOGÍA/E. TALLER/[ELECTRÓNICA]/Archivo Circuitos Nono/03_PCB_Design/FFCWVM_v2/Project Outputs for FFCWVM_Control_LinearRegulator_Project/FFCWVM_Control_LinearReg_PCB_v1.TXT"
+	],
+	"find":
+	{
+		"height": 22.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"d_i_f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 183.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
